@@ -1,0 +1,1 @@
+--select * from students where studentname regexp'^[a-f]';

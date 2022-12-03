@@ -1,0 +1,1 @@
+-- select * from students where studentname like 'a%' or studentname like 'c%' or studentname like 's%';

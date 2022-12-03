@@ -1,0 +1,1 @@
+--> select StudentName,PostalCode as Zip from students;

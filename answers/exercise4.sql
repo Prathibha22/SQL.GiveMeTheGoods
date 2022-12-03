@@ -1,0 +1,1 @@
+--select * from students where studentname not like 'c%' and studentname not like 'a%' and studentname not like 'f%';
